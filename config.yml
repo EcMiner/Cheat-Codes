@@ -1,0 +1,6 @@
+# The cooldown needs to be in milliseconds (1000 milliseconds = 1 second)
+cheats:
+  1234-5678:
+    cooldown: 20000
+    commands:
+    - 'say %player% just entered a cheat code!'

@@ -1,0 +1,7 @@
+name: CheatCodes
+main: me.ecminer.cheatcodes.Main
+version: 1
+commands:
+  cheat:
+    description: Opens the cheat code GUI.
+    aliases: [code, codes]
